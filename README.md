@@ -14,8 +14,8 @@
 ## How to Play
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/my-first-python-game.git
-   cd my-first-python-game
+   git clone https://github.com/imBOWSER/PyPP.git
+   cd PyPP
    ```
 
 2. Ensure you have Python 3.7 or later installed on your system.
